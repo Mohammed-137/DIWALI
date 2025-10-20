@@ -7,7 +7,7 @@
   const opts = {
     strings: ["HAPPY", "DIWALI MY DEAR FRIENDS AND MENTORS"],   // change text here
     charSize: 44,
-    charSpacing: 36, 
+    charSpacing: 32, 
     lineHeight: 72,
     gravity: 0.12,
     upFlow: -0.06,
